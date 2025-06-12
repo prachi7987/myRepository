@@ -1,2 +1,2 @@
-my 	file name is cd .
+my file name is cd .
 this file was empty.
